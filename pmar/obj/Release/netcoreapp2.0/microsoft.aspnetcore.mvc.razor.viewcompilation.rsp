@@ -1,0 +1,12 @@
+E:\My_Programs\ASP.net\pmar\pmar\pmar
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=pmar
+--content-root=E:\My_Programs\ASP.net\pmar\pmar\pmar
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\About.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\Contact.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\Error.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\old-index.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\_Layout.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\_ValidationScriptsPartial.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\_ViewImports.cshtml
+--file=E:\My_Programs\ASP.net\pmar\pmar\pmar\Pages\_ViewStart.cshtml

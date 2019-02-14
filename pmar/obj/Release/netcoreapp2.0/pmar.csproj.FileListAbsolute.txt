@@ -1,0 +1,11 @@
+E:\My_Programs\ASP.net\pmar\pmar\pmar\bin\Release\netcoreapp2.0\pmar.deps.json
+E:\My_Programs\ASP.net\pmar\pmar\pmar\bin\Release\netcoreapp2.0\pmar.runtimeconfig.json
+E:\My_Programs\ASP.net\pmar\pmar\pmar\bin\Release\netcoreapp2.0\pmar.runtimeconfig.dev.json
+E:\My_Programs\ASP.net\pmar\pmar\pmar\bin\Release\netcoreapp2.0\pmar.dll
+E:\My_Programs\ASP.net\pmar\pmar\pmar\bin\Release\netcoreapp2.0\pmar.pdb
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.csprojResolveAssemblyReference.cache
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.csproj.CoreCompileInputs.cache
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.AssemblyInfoInputs.cache
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.AssemblyInfo.cs
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.dll
+E:\My_Programs\ASP.net\pmar\pmar\pmar\obj\Release\netcoreapp2.0\pmar.pdb
